@@ -4,11 +4,17 @@
 
 * [01 Introduccion a HTML]()
 * [02 Introduccion a CSS]()
-* [03 Introduccion a Bootstrap]()
-* [04 Introduccion a JS]()
-* [05 Construyend una Landing Page]()
-* [06 ES6 un rapido repaso por JS]()
-* [07 Construyeno una pagina en ANGULAR]()
+* [03 CSS Nivel intermedio]()
+* [04 CSS Nivel Avanzado]()
+* [05 Introduccion a Bootstrap]()
+* [06 Introduccion a JS]()
+* [07 Asincronia en JS]()
+* [08 Programacion Orienta a Objetos en JS]()
+* [09 Construyend una Landing Page]()
+* [08 ES6 un rapido repaso por JS]()
+* [09 Construyeno una pagina en ANGULAR]()
+* [10 Construyeno una pagina en Vue.JS]()
+* [11 Construyeno un backend en Node.js]()
 
 ## Referencias :
 
